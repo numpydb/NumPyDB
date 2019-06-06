@@ -23,7 +23,7 @@ class TestDataStructure(unittest.TestCase):
         data_expected = {
                 'value': data_value,
                 'vector': data_vector,
-                'id': -1
+                'id': 1
              }
 
         result = Data(data_vector, data_value)
