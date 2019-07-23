@@ -1,6 +1,9 @@
+import numpy as np
+
+
 class Data:
     value = ""
-    vector = []
+    vector = np.array([], dtype=float)
     id = -1
 
     def __init__(self, vector, value, id_data=-1):
