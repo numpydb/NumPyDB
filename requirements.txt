@@ -1,4 +1,4 @@
-numpy==1.16.4
+numpy==1.22.0
 pytest==4.6.0
 redis==3.2.1
 mockito==1.1.1
